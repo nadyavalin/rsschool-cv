@@ -6,7 +6,7 @@ Russia, Saint-Petersburg
 ## **Contacts**
 * Phone: +7 (987) 641-52-85
 * Email: nadejda.sergeevna.tkachuk@gmail.com
-* Telegram: https://t.me/tkachuk_87
+* Telegram: [tkachuk_87](https://t.me/tkachuk_87) 
 
 ## **About me**
 ## Personal information
@@ -25,13 +25,11 @@ Russia, Saint-Petersburg
 I have been tutoring English since 2017.
 
 ## Third job information
-I have been learning UX/UI-design and doing websites since 2022.
-
-**My portfolio on Telegram:** https://t.me/portfolio_tkachuk *(you can find another sections and links there)*
+I have been learning UX/UI-design and doing websites since 2022. [My portfolio on Telegram](https://t.me/portfolio_tkachuk) *(you can find another sections and links there).*
 ***
 
 ## Summary 
-I like doing design. Now I have several projects, one of them is commercial (http://sharuk.tilda.ws) and I'm working hard on it now.
+I like doing design. Now I have several projects, [one of them is commercial](http://sharuk.tilda.ws) and I'm working hard on it now.
 
 I want to be a highly skilled UX/UI designer or/and frontend developer because I also like coding. I spend all my free time designing and programming. I am doing my best to become an expert in these fields.
 
@@ -58,13 +56,13 @@ I like programming since my childhood, but 20 years ago this direction was not a
 * TypScript
 
 ## Code Examples
-Files store: https://github.com/nadyavalin/cars2-app
+[cars-hw](https://nadyavalin.github.io/cars-hw/) *(made as part of an intensive from ITLogia)*
 
-Implementation: https://nadyavalin.github.io/cars-hw/
-
-*(made as part of an intensive from ITLogia)*
+File storage: [cars2-app](https://github.com/nadyavalin/cars2-app)
 
 ## Education
+**Courses**: UX/UI-design course, December 2022 to the present
+
 **High:** Volgograd State Technical University, engineer, specialty "Automation of technological processes and production in the chemical industry", 2006-2010
 
 **Secondary:** Volgograd Polytechnic College, technician, specialty "Automation of technological processes and production (by industry)", 2002-2006
