@@ -1,3 +1,115 @@
-h1 {
-    color: green;
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  width: 100%;
+  color: #091a30;
+  background-color: #1154ab;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.header-title {
+  font-family: 'Flamenco', fantasy;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-shadow: 0.5px 0.5px #b64081;
+}
+.section-title {
+  font-family: 'Flamenco', fantasy;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-shadow: 0.5px 0.5px #b64081;
+}
+
+a:link {
+  color: #4c91eb;
+  text-decoration: none;
+  transition: .5s;
+}
+
+a:visited {
+  color: #dc0eb9;;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b64081;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #0000ff;
+  text-decoration: underline;
+}
+
+.container {
+  margin: 10px auto;
+  background-color: #c8dcf6;
+  width: 90%;
+  padding: 10px 50px;
+  border-radius: 30px;
+  box-shadow: 0px 5px 10px 0px #000000;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+  padding: 2%;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
   }
+}
+
+table {
+  width: inherit;
+  height: 300px;
+  background-color: #d9e7f7;
+  border-radius: 30px;
+  padding: 20px;
+  border: 1px solid #0000ff;
+}
+
+.photo {
+  border-radius: 30px;
+  width: 300px;
+  height: 300px;
+  margin-left: 20px;
+}
+
+.td-menu {
+  width: 50%;
+}
+
+.nav-list {
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 10px;
+  line-height: 30px;
+}
+
+.footer {
+  text-align: center;
+}
