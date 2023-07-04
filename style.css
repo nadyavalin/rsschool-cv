@@ -110,6 +110,10 @@ table {
   line-height: 30px;
 }
 
+.rs-school {
+  width: 100px;
+}
+
 .footer {
   text-align: center;
 }
