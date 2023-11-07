@@ -37,9 +37,7 @@ I have been learning UX/UI-design and doing websites since 2022. [My portfolio o
 * purposeful
 
 ## Skills
-* HTML
-* CSS
-* JavaScript
+* HTML, CSS, JS
 * Git, GitHub
 * VSCode
 
@@ -47,8 +45,7 @@ I have been learning UX/UI-design and doing websites since 2022. [My portfolio o
 * Figma
 * Tilda
 * Adobe Photoshop
-* Movavi
-* After Effects
+* After Effects, Movavi
 
 ## Future skills
 * TypScript
