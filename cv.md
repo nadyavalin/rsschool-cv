@@ -1,5 +1,7 @@
 # **Nadezhda Tkachuk**
 
+# **Junior Front-end developer**
+
 ## **Location**
 Russia, Saint-Petersburg
 
@@ -8,8 +10,7 @@ Russia, Saint-Petersburg
 * Email: nadejda.sergeevna.tkachuk@gmail.com
 * Telegram: [tkachuk_87](https://t.me/tkachuk_87) 
 
-## **About me**
-## Personal information
+## **About me - Personal information**
 * **Date of Birth:** 29th, June, 1987
 * **Family status:** married
 * **Children:** son
@@ -54,8 +55,8 @@ I have been learning UX/UI-design and doing websites since 2022. [My portfolio o
 * Python
 
 ## Code Examples
-[Goals Maker](https://nadyavalin.github.io/goalsMaker/)
-File storage: [Goals Maker](https://github.com/nadyavalin/goalsMaker)
+* Deploy: [Goals Maker](https://nadyavalin.github.io/goalsMaker/)
+* File storage: [Goals Maker files](https://github.com/nadyavalin/goalsMaker)
 
 ## Work Experience
 * Create design and implementation of this design on Tilda [Realtor Site](https://insp-studio.ru/realtor)
