@@ -29,7 +29,7 @@ I have been tutoring English since 2017.
 I have been learning UX/UI-design and doing websites since 2022. [My portfolio on Telegram](https://t.me/portfolio_tkachuk) *(you can find another sections and links there).*
 
 ## **Brief Self-Introduction**
-* I want to be a front-end developer because I enjoy programming and I can read and understand documentation properly. I like to complete tasks. I spend all my free time on programming. I am doing my best to become an expert in this field.
+I want to be a front-end developer because I enjoy programming and I can read and understand documentation properly. I like to complete tasks. I spend all my free time on programming. I am doing my best to become an expert in this field.
 
 ## My strengths
 * hardworking
@@ -41,7 +41,6 @@ I have been learning UX/UI-design and doing websites since 2022. [My portfolio o
 * HTML, CSS, JS
 * Git, GitHub
 * VSCode
-
 * UX/UI-design
 * Figma
 * Tilda
@@ -77,6 +76,8 @@ I have been learning UX/UI-design and doing websites since 2022. [My portfolio o
 ## Languages
 English B2 (Upper-Intermediate), Certificate of Attendance X-Language School, from November, 19 2019 to November, 6 2020
 Also I am tutoring English.
+
+I also do English tutoring.
 
 ## Hobbies
 * UX/UI-design
