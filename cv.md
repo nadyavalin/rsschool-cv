@@ -1,5 +1,7 @@
 # **Nadezhda Tkachuk**
 
+# **Junior Front-end developer**
+
 ## **Location**
 Russia, Saint-Petersburg
 
@@ -8,8 +10,7 @@ Russia, Saint-Petersburg
 * Email: nadejda.sergeevna.tkachuk@gmail.com
 * Telegram: [tkachuk_87](https://t.me/tkachuk_87) 
 
-## **About me**
-## Personal information
+## **About me - Personal information**
 * **Date of Birth:** 29th, June, 1987
 * **Family status:** married
 * **Children:** son
@@ -26,14 +27,9 @@ I have been tutoring English since 2017.
 
 ## Third job information
 I have been learning UX/UI-design and doing websites since 2022. [My portfolio on Telegram](https://t.me/portfolio_tkachuk) *(you can find another sections and links there).*
-***
 
-## Summary 
-I like doing design. Now I have several projects, [one of them is commercial](http://sharuk.tilda.ws) and I'm working hard on it now.
-
-I want to be a highly skilled UX/UI designer or/and frontend developer because I also like coding. I spend all my free time designing and programming. I am doing my best to become an expert in these fields.
-
-I like programming since my childhood, but 20 years ago this direction was not as developed as it is now. I really regret that I gave up making websites at the age of 15. I made three sites, but now they are no longer on the Internet.
+## **Brief Self-Introduction**
+I want to be a front-end developer because I enjoy programming and I can read and understand documentation properly. I like to complete tasks. I spend all my free time on programming. I am doing my best to become an expert in this field.
 
 ## My strengths
 * hardworking
@@ -42,26 +38,36 @@ I like programming since my childhood, but 20 years ago this direction was not a
 * purposeful
 
 ## Skills
+* HTML, CSS, JS
+* Git, GitHub
+* VSCode
 * UX/UI-design
 * Figma
 * Tilda
 * Adobe Photoshop
-* Movavi
-* After Effects
+* After Effects, Movavi
 
-## Future skills...
-* HTML
-* CSS
-* JavaScript
+## Future skills
 * TypScript
+* Angular or React
+* Node.js
+* Python
 
 ## Code Examples
-[cars-hw](https://nadyavalin.github.io/cars-hw/) *(made as part of an intensive from ITLogia)*
+* Deploy: [Goals Maker](https://nadyavalin.github.io/goalsMaker/)
+* File storage: [Goals Maker files](https://github.com/nadyavalin/goalsMaker)
 
-File storage: [cars2-app](https://github.com/nadyavalin/cars2-app)
+## Work Experience
+* Create design and implementation of this design on Tilda [Realtor Site](https://insp-studio.ru/realtor)
+* Create design in group of designer [Module Houses Design Concept](https://dprofile.ru/case/23992/landing-page-your-home)
+* Implementation of the design on Tilda [Module Houses on Tilda](https://insp-studio.ru/module-houses)
+* Implementation of the design on code [Furniture in SPB](https://nadyavalin.github.io/furniture-in-spb/)
 
 ## Education
-**Courses**: UX/UI-design course, December 2022 to the present
+**Courses**: 
+* UX/UI-design course, December 2022 - May 2023 (16.05.2023)
+* [HTML CSS JS on Stepik (27.06.2023)](https://stepik.org/cert/2114766)
+* [JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT), June 2023 - November 2023 (01.11.2023)](https://app.rs.school/certificate/h5uwozp8)
 
 **High:** Volgograd State Technical University, engineer, specialty "Automation of technological processes and production in the chemical industry", 2006-2010
 
@@ -69,6 +75,8 @@ File storage: [cars2-app](https://github.com/nadyavalin/cars2-app)
 
 ## Languages
 English B2 (Upper-Intermediate), Certificate of Attendance X-Language School, from November, 19 2019 to November, 6 2020
+
+I also do English tutoring.
 
 ## Hobbies
 * UX/UI-design
