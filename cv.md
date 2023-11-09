@@ -75,6 +75,7 @@ I want to be a front-end developer because I enjoy programming and I can read an
 
 ## Languages
 English B2 (Upper-Intermediate), Certificate of Attendance X-Language School, from November, 19 2019 to November, 6 2020
+Also I am tutoring English.
 
 I also do English tutoring.
 
